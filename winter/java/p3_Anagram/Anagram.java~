@@ -1,0 +1,14 @@
+import java.io.IOException;
+import java.io.FileInputStream;
+
+public class Anagram {
+  static final int MAX_ANAGRAMLIST_SIZE = 10 ;
+  private String key = null ;
+  private String [] values = null ;
+    
+    public ListOfAnagrams(String word) {
+    values = new String [MAX_ANAGRAMLIST_SIZE] ;
+    values [0] = word ;
+  
+    
+    }

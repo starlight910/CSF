@@ -1,0 +1,15 @@
+This is the authorship project for Fall 2016 CSF at Evergreen.
+The Programmers that worked on this project are as follows.
+
+Tim Aston
+Jesse Hasselswerth
+Ron Holms
+Jun Ho Lim
+Justtin Speer
+
+Instructions:
+1) Run Program.
+2) Enter the name of a myster file from within the mystery_files folder (ex. mystery2a.txt) the file extention must be included.
+3) Once the program analyzes the file the user will be prompted for where the author files are located. type "author_files" this will make the program work.
+
+All enteries that are not valid will be rejected and repeat the same prompt.

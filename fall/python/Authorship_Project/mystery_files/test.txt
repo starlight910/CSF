@@ -1,0 +1,5 @@
+"The time has come, the Walrus said\n",
+            "To talk of many things: of shoes - and ships - and sealing wax,\n",
+            "Of cabbages; and kings.\n"
+            "And why the sea is boiling hot;\n"
+            "and whether pigs have wings.\n"

@@ -1,0 +1,39 @@
+import java.io.* ;
+import java.util.Scanner ;
+import java.util.Arrays ;
+
+public class ListOfAnagrams {
+  
+  public static String computeKey(String word) {
+    word = word.toLowerCase();
+    char[] characters = word.toCharArray() ;
+    Arrays.sort(characters) ;
+    return word ;
+  }
+  
+  
+  
+  public static int wordFinderPutter(String filename){
+   /*
+    * This method counts all the words in the file
+    */
+    String usrWord = scnr.hasNext();
+    String compareWord = usrWord.computeKey();
+    int wordLength = compareWord.length();
+    if (wordLength 
+    File infile = new File(filename);
+    try(Scanner input = new Scanner(new FileInputStream(filename))){
+   
+   while(input.hasNext()){
+     input.next();
+     counter++;
+  
+  public static void main (String[]args) {
+   Scanner scnr = new Scanner(System.in);
+   FileInputStream infile = null;
+   Scanner fileInput = null;
+   
+   infile = new FileInputStream("dictionary.txt");
+   fileInput = new Scanner(infile);
+    
+  }
